@@ -29,7 +29,6 @@ Permissions to create:
 ### 🖥️ Local Setup
 - [Terraform v1.0+](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
-- Git installed
 
 ---
 
